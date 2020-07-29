@@ -15,10 +15,9 @@ C# Hangul.Net 클래스 라이브러리는 한글 문자/문자열에 대해 다
 
 
 
-## Get Started
+## Referencing Namespace
 
-+ 클래스 라이브러리(DLL) [다운로드](https://github.com/mohenjo/Hangul.Net/raw/master/Download/HPark.Hangul.dll) 
-+ 참조: `Using HPark.Hangul`
++ `Using HPark.Hangul`
 
 
 
